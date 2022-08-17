@@ -1,11 +1,11 @@
 class Ex2_12 {
-	public static void main(String args[]) {
-		String str = "3";
+    public static void main(String args[]) {
+        String str = "3";
 
-		System.out.println(str.charAt(0) - '0');
-		System.out.println('3' - '0' + 1);
-		System.out.println(Integer.parseInt("3") + 1);
-		System.out.println("3" + 1);
-		System.out.println(3 + '0');   // '0'Àº ¼ýÀÚ·Î 48
-	}
+        System.out.println(str.charAt(0) - '0');
+        System.out.println('3' - '0' + 1);
+        System.out.println(Integer.parseInt("3") + 1);
+        System.out.println("3" + 1);
+        System.out.println(3 + '0');   // '0'ï¿½ï¿½ ï¿½ï¿½ï¿½Ú·ï¿½ 48
+    }
 }
