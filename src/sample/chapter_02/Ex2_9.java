@@ -1,3 +1,5 @@
+package sample.chapter_02;
+
 class Ex2_9 {
 	public static void main(String[] args) {
 		String url = "www.codechobo.com";
